@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @ayaxan7
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Computer Science with data science.
-- 💞️ I’m looking to collaborate on Linkedin.
-- 📫 How to reach me @https://www.linkedin.com/in/syed-mohammad-ayaan-30302b271/
 
-<!---
-ayaxan7/ayaxan7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### Hi there 👋 I'm Syed Mohammad Ayaan (@ayaxan7)
+
+- 👀 I’m passionate about coding and exploring new technologies.
+- 🌱 Currently pursuing a Bachelor's in Computer Science with a focus on Data Science.
+- 💞️ Open to collaboration on exciting projects and opportunities.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/syed-mohammad-ayaan-30302b271/).
+
+Feel free to reach out!
+
+---
