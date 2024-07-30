@@ -49,3 +49,10 @@ Learning in public on <a href="https://www.linkedin.com/in/syed-mohammad-ayaan-3
   height="40" alt="Kotlin logo" />
   <img width="12" />       
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ayaxan7&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ayaxan7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaxan7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
