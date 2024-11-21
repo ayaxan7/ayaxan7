@@ -48,7 +48,9 @@ I’m an Android development enthusiast, currently pursuing a Bachelor's of Engi
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /
   height="40" alt="Kotlin logo" />
-  <img width="12" />       
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" 
+    height="40" alt="Kotlin logo"/>
 </div>
 
 # 📊 GitHub Stats:
