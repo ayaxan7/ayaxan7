@@ -55,13 +55,24 @@ I’m an Android development enthusiast, currently pursuing a Bachelor's of Engi
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayaxan7&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayaxan7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaxan7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ayaxan7&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaxan7&theme=dark&hide_border=false"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaxan7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+    </td>
+  </tr>
+</table>
 
 # 📝 Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
-
-
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
