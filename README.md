@@ -1,7 +1,7 @@
 # Ayaan
 Learning in public on <a href="https://www.linkedin.com/in/syed-mohammad-ayaan-30302b271/" target="_blank">LinkedIn</a>, documenting my journey (irregularly).<br>💡My goal is to build projects that people can use and benefit from.
 
-I’m an Android development enthusiast, currently pursuing a Bachelor's of Engineering in Computer Science with a focus on Data Science in Bangalore, India. Alongside my passion for mobile development, I’m also diving into Data Structures and Algorithms (DSA) with Java to strengthen my problem-solving skills. I’m passionate about hands-on projects that blend technology and practicality, aiming to create solutions that address real-world problems.
+I’m an Android development enthusiast, currently pursuing a Bachelor's of Engineering in Computer Science from Bangalore, India. Alongside my passion for mobile development, I’m also diving into Data Structures and Algorithms (DSA) with Java to strengthen my problem-solving skills. I’m passionate about hands-on projects that blend technology and practicality, aiming to create solutions that address real-world problems.
 
 ###
 
