@@ -18,6 +18,9 @@ I’m an Android development enthusiast, currently pursuing a Bachelor's of Engi
   <a href="https://x.com/SyedMoh28440276" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"width="52" height="40" alt="twitter logo"  />
   </a>
+  <a href="https://medium.com/@tanaykedia" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
 </div>
 
 ###
