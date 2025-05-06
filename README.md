@@ -26,7 +26,6 @@ I’m an Android development enthusiast, currently pursuing a Bachelor's of Engi
 ###
 
 <div align="left">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"  height="40" alt="android studio logo" />
@@ -77,7 +76,10 @@ I’m an Android development enthusiast, currently pursuing a Bachelor's of Engi
   </tr>
 </table>
 
-# 📝 Dev Quote:
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
+## 🟩 My Contributions:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayaxan7/ayaxan7/snake/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayaxan7/ayaxan7/snake/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayaxan7/ayaxan7/snake/snake.svg">
+</picture>
+
