@@ -51,6 +51,9 @@ I’m an Android development enthusiast, currently pursuing a Bachelor's of Engi
 </div>
 
 # 📊 GitHub Stats:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaxan7&label=Profile%20views&color=0e75b6&style=flat" alt="ayaxan7" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaxan7" alt="ayaxan7" /></a> </p>
 
 <table>
   <tr>
