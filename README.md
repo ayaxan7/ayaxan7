@@ -51,18 +51,20 @@ I’m an Android development enthusiast, currently pursuing a Bachelor's of Engi
 </div>
 
 # 📊 GitHub Stats:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaxan7&label=Profile%20views&color=0e75b6&style=flat" alt="ayaxan7" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ayaxan7&label=Profile%20views&color=0e75b6&style=flat" alt="ayaxan7" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaxan7" alt="ayaxan7" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ayaxan7" alt="ayaxan7" />
+  </a>
+</p>
 
-<table>
+<table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ayaxan7&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaxan7&theme=dark&hide_border=false" />
-    </td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ayaxan7&theme=radical&hide_border=false&include_all_commits=true&count_private=false" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaxan7&theme=dark&hide_border=false" /></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
@@ -70,6 +72,7 @@ I’m an Android development enthusiast, currently pursuing a Bachelor's of Engi
     </td>
   </tr>
 </table>
+
 
 ## 🟩 My Contributions:
 <picture>
