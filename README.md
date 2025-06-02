@@ -11,8 +11,8 @@ I’m an Android development enthusiast, currently pursuing a Bachelor's of Engi
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
   <a href="https://x.com/SyedMoh28440276" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="40" height="30" alt="Twitter logo" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="40" height="30" alt="Twitter logo"/>
+</a>
   <a href="https://medium.com/@syedayaan9376" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="40" height="30" alt="Medium logo" />
   </a>
@@ -31,6 +31,8 @@ I’m an Android development enthusiast, currently pursuing a Bachelor's of Engi
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="Firebase logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Golang logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
@@ -38,8 +40,6 @@ I’m an Android development enthusiast, currently pursuing a Bachelor's of Engi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
 </div>
 
