@@ -48,12 +48,6 @@ I’m an Android development enthusiast, currently pursuing a Bachelor's of Engi
   <img src="https://komarev.com/ghpvc/?username=ayaxan7&label=Profile%20views&color=0e75b6&style=flat" alt="ayaxan7" /> 
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayaxan7" alt="ayaxan7" />
-  </a>
-</p>
-
 <table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=ayaxan7&theme=radical&hide_border=false&include_all_commits=true&count_private=false" /></td>
