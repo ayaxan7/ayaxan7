@@ -2,7 +2,7 @@
 
 Learning in public on <a href="https://www.linkedin.com/in/syed-mohammad-ayaan-30302b271/" target="_blank">LinkedIn</a>, documenting my journey (irregularly).<br>💡My goal is to build projects that people can use and benefit from.
 
-I have spent the last 1.5 years completely focused on Android development, building projects that integrate clean UI, real-time data using Firebase and Websockets, and backend logic through RESTful APIs. During this time, I have had the chance to closely collaborate with AI engineers and backend developers, which has helped me understand how to align Android apps with powerful backend and ML-driven features. I'm currently pursuing a B.E. in Computer Science (Data Science), and I'm especially excited by how Android can be a bridge between users and AI which I understand is something your team is clearly working on.
+I have spent the last 1.5 years completely focused on Android development, building projects that integrate clean UI, real-time data using Firebase and Websockets, and backend logic through RESTful APIs. During this time, I have had the chance to closely collaborate with AI engineers and backend developers, which has helped me understand how to align Android apps with powerful backend and ML-driven features. I'm currently pursuing a B.E. in Computer Science (Data Science), and I'm especially excited by how Android can be a bridge between users and AI which I understand is something your every major organisation is clearly working on.
 
 ###
 
