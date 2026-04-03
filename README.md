@@ -65,7 +65,19 @@ I have spent the last 1.5 years completely focused on Android development, build
     </td>
   </tr>
 </table>
+## 🏆 LeetCode:
 
+<p align="center">
+  <a href="https://leetcode.com/u/syedayaan9376/" target="Dhrumil Thakar">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+   <a href="https://leetcode.com/u/dhrumilthakar/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="250"/>
+  </a>
+</p>
 
 ## 🟩 My Contributions:
 <picture>
