@@ -75,7 +75,7 @@ I have spent the last 1.5 years completely focused on Android development, build
 </p>
 
 <p align="center">
-   <a href="https://leetcode.com/u/dhrumilthakar/" target="_blank">
+   <a href="https://leetcode.com/u/syedayaan9376/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="250"/>
   </a>
 </p>
