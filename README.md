@@ -171,7 +171,9 @@
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/syed-mohammad-ayaan-30302b271/"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=LinkedIn&amp;color=0A66C2&amp;logo=LinkedIn&amp;logoColor=FFFFFF&amp;label=" alt="LinkedIn"></a>
-  <a href="https://github.com/ayaxan7"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=GitHub&amp;color=181717&amp;logo=GitHub&amp;logoColor=FFFFFF&amp;label=" alt="GitHub"></a>
+<a href="https://medium.com/@syedayan9376">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=12100E&logo=Medium&logoColor=FFFFFF&label=" alt="Medium">
+</a>
   <a href="mailto:syedayaan9376@gmail.com?subject=Hi%20Syed%20Mohammad%20Ayaan,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Gmail&amp;color=EA4335&amp;logo=Gmail&amp;logoColor=FFFFFF&amp;label="></a>
 </div>
 <hr>
